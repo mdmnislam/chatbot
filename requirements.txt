@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+dotenv
+ipython
+langchain-groq
+ipykernel
+flask
+langchain-community
+langchain-tavily
+langgraph-checkpoint-sqlite
+-e .
