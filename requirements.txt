@@ -2,10 +2,13 @@ langchain
 langchain-openai
 dotenv
 ipython
-langchain-groq
 ipykernel
 flask
 langchain-community
-langchain-tavily
-langgraph-checkpoint-sqlite
+langchain-groq
+pypdf
+langchain-huggingface
+langgraph
+langchain-core
+langchain-pinecone==0.2.8
 -e .
